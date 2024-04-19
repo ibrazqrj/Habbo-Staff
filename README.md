@@ -22,7 +22,7 @@ Check out the live demo of the Habbo Index project [here](https://habbo-staff.ve
 ![image](https://github.com/ibrazqrj/Habbo-Staff/assets/153816768/54208404-3377-4a7b-91bf-2cafb57caf2d)
 
 ## Contributors 👥
-![image](https://github.com/ibrazqrj/Habbo-Staff/assets/153816768/d94856ac-a470-4cdf-b9bc-ae19176d9bc3)
+![image](https://github.com/ibrazqrj/Habbo-Staff/assets/153816768/e284cd7b-bf1b-4f2f-9292-ae515d8acde7)
 
 
             @ibrazqrj
