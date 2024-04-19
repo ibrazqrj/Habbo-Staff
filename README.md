@@ -1,27 +1,28 @@
-![image](https://github.com/ibrazqrj/habbo-index/assets/153816768/2fc371ad-6cbe-4046-9fd7-b1bc22bfec22)
+![image](https://github.com/ibrazqrj/Habbo-Staff/assets/153816768/84710aca-32f6-488b-85be-792c4438b975)
 
 
-# Habbo Index Project 🛋️
+
+# Habbo Staff Project ⚠️ 
 
 ## Introduction ℹ️
 
-The Habbo Index project was created during my school studies as I am learning about HTML and CSS. It served as an opportunity to apply my newly acquired knowledge and skills in web development.
+Welcome to the Habbo Staff Project! This project aims to provide a comprehensive platform showcasing the dedicated team members behind the scenes at Habbo. From administrators to moderators, this project highlights the individuals responsible for maintaining the integrity and smooth functioning of the Habbo community.
 
 ## Technologies Used 🛠️
 
 - **VSCode:** Used as the primary code editor for development.
-- **HTML, CSS, and JS:** The project is based on these fundamental web technologies.
+- **HTML, CSS** The project is based on these fundamental web technologies.
 
 ## Live Demo 🚀
 
-Check out the live demo of the Habbo Index project [here](https://habbo-index.vercel.app/).
+Check out the live demo of the Habbo Index project [here](https://habbo-staff.vercel.app/).
 
 ## Screenshot 📸
 
-![image](https://github.com/ibrazqrj/habbo-index/assets/153816768/60b17bee-81e4-46d9-a364-8bb4f3346da9)
+![image](https://github.com/ibrazqrj/Habbo-Staff/assets/153816768/54208404-3377-4a7b-91bf-2cafb57caf2d)
 
 ## Contributors 👥
-![image](https://github.com/ibrazqrj/habbo-index/assets/153816768/29d4665e-b07c-471a-999c-37d4e3fc5fc9)
+![image](https://github.com/ibrazqrj/Habbo-Staff/assets/153816768/d94856ac-a470-4cdf-b9bc-ae19176d9bc3)
 
 
             @ibrazqrj
