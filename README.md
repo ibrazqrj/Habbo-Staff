@@ -32,4 +32,4 @@ Check out the live demo of the Habbo Index project [here](https://habbo-staff.ve
 To clone this repository and get started with the project, run the following command:
 
 ```bash
-git clone https://github.com/YourGitHubUsername/Habbo-Index.git
+git clone https://github.com/ibrazqrj/Habbo-Staff.git
