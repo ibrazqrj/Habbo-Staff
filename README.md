@@ -15,7 +15,7 @@ Welcome to the Habbo Staff Project! This project aims to provide a comprehensive
 
 ## Live Demo 🚀
 
-Check out the live demo of the Habbo Index project [here](https://habbo-staff.vercel.app/).
+Check out the live demo of the Habbo Staffpage [here](https://habbo-staff.vercel.app/).
 
 ## Screenshot 📸
 
